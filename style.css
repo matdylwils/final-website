@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+nav {
+    text-align: center;
+    margin: 20px;
+}
+
+a {
+    color: darkblue;
+    font-weight: bold;
+}
+
+.index-page {
+    background-color: #f2f7ff;
+    color: #1f3b63;
+}
+
+.skills-page {
+    background-color: #f4fff2;
+    color: #1f5c2e;
+}
+
+.goals-page {
+    background-color: #fff8e6;
+    color: #6b4a00;
+}
+
+.professional-page {
+    background-color: #fff0f5;
+    color: #6b1f3a;
+}
+
+.content-box {
+    max-width: 800px;
+    margin: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav li {
+    margin: 8px 0;
+}
+
+.nav-heading {
+    text-align: center;
+}
